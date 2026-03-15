@@ -11,6 +11,12 @@ The goal is to compare traditional machine learning models with a deep learning 
 OASIS Brain MRI Dataset  
 https://www.oasis-brains.org/
 
+## Project Architecture
+
+The following diagram shows the workflow of the hybrid ML–DL framework used for early Alzheimer's disease detection.
+
+![Architecture](architecture.jpeg)
+
 ## Models Used
 - Logistic Regression
 - Decision Tree
